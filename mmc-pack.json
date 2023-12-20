@@ -27,7 +27,7 @@
             "uid": "wisp"
         },
         {
-            "cachedName": "Intermediary Mappings",
+            "cachedName": "Nostalgia Mappings",
             "cachedRequires": [
                 {
                     "equals": "b1.7.3",
@@ -37,11 +37,11 @@
             "cachedVersion": "b1.7.3",
             "cachedVolatile": true,
             "dependencyOnly": true,
-            "uid": "babric.intermediary",
+            "uid": "me.alphamode.nostalgia",
             "version": "b1.7.3"
         },
         {
-            "cachedName": "Fabric Loader",
+            "cachedName": "Wisp Loader",
             "cachedRequires": [
                 {
                     "uid": "babric.intermediary"
