@@ -6,6 +6,10 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
+            "name": "net.fabricmc:mapping-io:0.2.1",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
             "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
             "url": "https://maven.fabricmc.net/"
         },
