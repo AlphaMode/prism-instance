@@ -42,14 +42,14 @@
             "url": "https://maven.glass-launcher.net/babric/"
         }
     ],
-    "mainClass": "me.alphamode.wisp.loader.KnotClient",
-    "name": "Fabric Loader",
+    "mainClass": "me.alphamode.wisp.loader.Main",
+    "name": "Wisp Loader",
     "requires": [
         {
-            "uid": "babric.intermediary"
+            "uid": "me.alphamode.nostalgia"
         }
     ],
     "type": "release",
-    "uid": "net.fabricmc.fabric-loader",
+    "uid": "me.alphamode.wisp-loader",
     "version": "0.14.24-babric.1"
 }
