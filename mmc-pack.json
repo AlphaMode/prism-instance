@@ -34,11 +34,11 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "cachedVersion": "b1.7.3",
+            "cachedVersion": "b1.7.3+build.local23",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "me.alphamode.nostalgia",
-            "version": "b1.7.3"
+            "version": "b1.7.3+build.local23"
         },
         {
             "cachedName": "Wisp Loader",
