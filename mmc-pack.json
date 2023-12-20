@@ -22,9 +22,9 @@
             "version": "b1.7.3"
         },
         {
-            "cachedName": "Babric",
+            "cachedName": "Wisp",
             "cachedVersion": "b1.7.3",
-            "uid": "babric"
+            "uid": "wisp"
         },
         {
             "cachedName": "Intermediary Mappings",
@@ -47,9 +47,9 @@
                     "uid": "babric.intermediary"
                 }
             ],
-            "cachedVersion": "0.13.3",
-            "uid": "net.fabricmc.fabric-loader",
-            "version": "0.13.3"
+            "cachedVersion": "1.0",
+            "uid": "me.alphamode.wisp-loader",
+            "version": "1.0"
         }
     ],
     "formatVersion": 1
