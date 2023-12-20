@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
-    "name": "Babric",
-    "uid": "babric",
+    "name": "Wisp",
+    "uid": "wisp",
     "version": "b1.7.3",
     "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
     "+traits": [
