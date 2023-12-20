@@ -6,7 +6,7 @@
             "url": "https://maven.glass-launcher.net/babric"
         }
     ],
-    "name": "Intermediary Mappings",
+    "name": "Nostalgia Mappings",
     "releaseTime": "2022-03-20T00:31:28.800Z",
     "requires": [
         {
@@ -15,7 +15,7 @@
         }
     ],
     "type": "release",
-    "uid": "babric.intermediary",
+    "uid": "me.alphamode.nostalgia",
     "version": "b1.7.3",
     "volatile": true
 }
